@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipInspector-master.CSharp", "ShipInspector-master.CSharp.csproj", "{7AD91189-DF17-29F2-2F5B-A27D034EAB75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipInspector-master", "ShipInspector-master.csproj", "{7C37EBD1-A2F1-BF10-F71D-8B7DC6777BCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7AD91189-DF17-29F2-2F5B-A27D034EAB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AD91189-DF17-29F2-2F5B-A27D034EAB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AD91189-DF17-29F2-2F5B-A27D034EAB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AD91189-DF17-29F2-2F5B-A27D034EAB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C37EBD1-A2F1-BF10-F71D-8B7DC6777BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C37EBD1-A2F1-BF10-F71D-8B7DC6777BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C37EBD1-A2F1-BF10-F71D-8B7DC6777BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C37EBD1-A2F1-BF10-F71D-8B7DC6777BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

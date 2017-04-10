@@ -42,7 +42,6 @@ public class ShipInspector : Editor {
                     shipInspector.agility = 10;
 
                 EditorGUILayout.LabelField("Points Remaining", pointRemaining.ToString());
-                EditorGUILayout.HelpBox("Only one hundred points may be distributed", MessageType.Info);
                 EditorGUILayout.Space();
                 SerializedProperty shipGuns = serializedObject.FindProperty("shipGuns");
 
